@@ -1,0 +1,690 @@
+[
+	{
+		"Date": "6/24/13",
+		"Time": "12:30 PM",
+		"Departure": "L St NE 24, 20002 Washington",
+		"Cost": "$0.00",
+		"Lon": "-77.00829",
+		"Lat": "38.90375"
+	},
+	{
+		"Date": "6/24/13",
+		"Time": "12:04 PM",
+		"Departure": "G Pl NE 23, 20002 Washington",
+		"Cost": "$10.87",
+		"Lon": "-77.00854",
+		"Lat": "38.89954"
+	},
+	{
+		"Date": "6/19/13",
+		"Time": "11:09 AM",
+		"Departure": "Kearney St NE 1366, 20017 Washington",
+		"Cost": "$2.51",
+		"Lon": "-76.98647",
+		"Lat": "38.931"
+	},
+	{
+		"Date": "6/15/13",
+		"Time": "8:57 AM",
+		"Departure": "Irving St NE 1522, 20017 Washington",
+		"Cost": "$5.02",
+		"Lon": "-76.98262",
+		"Lat": "38.92901"
+	},
+	{
+		"Date": "6/14/13",
+		"Time": "8:15 AM",
+		"Departure": "15th St NE 3158, 20017 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.98421",
+		"Lat": "38.92981"
+	},
+	{
+		"Date": "6/13/13",
+		"Time": "5:56 PM",
+		"Departure": "9th St NE 3421, 20017 Washington",
+		"Cost": "$1.25",
+		"Lon": "-76.99361",
+		"Lat": "38.93163"
+	},
+	{
+		"Date": "6/13/13",
+		"Time": "8:12 AM",
+		"Departure": "Lawrence St NE 1348, 20017 Washington",
+		"Cost": "$3.34",
+		"Lon": "-76.98702",
+		"Lat": "38.93177"
+	},
+	{
+		"Date": "6/12/13",
+		"Time": "5:54 PM",
+		"Departure": "John F McCormack Rd NE 3528, 20017 Washington",
+		"Cost": "$7.11",
+		"Lon": "-76.99794",
+		"Lat": "38.94076"
+	},
+	{
+		"Date": "6/7/13",
+		"Time": "8:26 AM",
+		"Departure": "Irving St NE 1530, 20017 Washington",
+		"Cost": "$2.51",
+		"Lon": "-76.9826",
+		"Lat": "38.92901"
+	},
+	{
+		"Date": "6/5/13",
+		"Time": "8:33 AM",
+		"Departure": "Jackson St NE 1448, 20017 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.98518",
+		"Lat": "38.92987"
+	},
+	{
+		"Date": "6/3/13",
+		"Time": "5:46 PM",
+		"Departure": "10th St NE 3658, 20017 Washington",
+		"Cost": "$4.18",
+		"Lon": "-76.99284",
+		"Lat": "38.93467"
+	},
+	{
+		"Date": "6/3/13",
+		"Time": "1:04 PM",
+		"Departure": "K St NW 419, 20001 Washington",
+		"Cost": "$4.18",
+		"Lon": "-77.01707",
+		"Lat": "38.90253"
+	},
+	{
+		"Date": "6/3/13",
+		"Time": "12:12 PM",
+		"Departure": "M St NW 89, 20001 Washington",
+		"Cost": "$7.11",
+		"Lon": "-77.01171",
+		"Lat": "38.90566"
+	},
+	{
+		"Date": "5/17/13",
+		"Time": "8:46 AM",
+		"Departure": "Kearney St NE 1422, 20017 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.98482",
+		"Lat": "38.93109"
+	},
+	{
+		"Date": "5/10/13",
+		"Time": "8:04 AM",
+		"Departure": "15th St NE 3164, 20017 Washington",
+		"Cost": "$2.51",
+		"Lon": "-76.98421",
+		"Lat": "38.92982"
+	},
+	{
+		"Date": "5/9/13",
+		"Time": "6:10 PM",
+		"Departure": "15th St NE 3164, 20017 Washington",
+		"Cost": "$0.00",
+		"Lon": "-76.98421",
+		"Lat": "38.92982"
+	},
+	{
+		"Date": "5/9/13",
+		"Time": "5:58 PM",
+		"Departure": "8th St NE 3357, 20017 Washington",
+		"Cost": "$5.02",
+		"Lon": "-76.99493",
+		"Lat": "38.9313"
+	},
+	{
+		"Date": "5/9/13",
+		"Time": "8:28 AM",
+		"Departure": "Kearney St NE 1420, 20017 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.98531",
+		"Lat": "38.93086"
+	},
+	{
+		"Date": "5/8/13",
+		"Time": "8:02 AM",
+		"Departure": "Hamlin St NE 1226, 20017 Washington",
+		"Cost": "$1.67",
+		"Lon": "-76.98993",
+		"Lat": "38.92765"
+	},
+	{
+		"Date": "5/7/13",
+		"Time": "5:45 PM",
+		"Departure": "Newton St NE 1114, 20017 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.99125",
+		"Lat": "38.93353"
+	},
+	{
+		"Date": "5/1/13",
+		"Time": "5:51 PM",
+		"Departure": "John F McCormack Rd NE 3588, 20017 Washington",
+		"Cost": "$4.18",
+		"Lon": "-76.99794",
+		"Lat": "38.94076"
+	},
+	{
+		"Date": "4/30/13",
+		"Time": "5:24 PM",
+		"Departure": "John F McCormack Rd NE 3518, 20017 Washington",
+		"Cost": "$5.85",
+		"Lon": "-76.99794",
+		"Lat": "38.94076"
+	},
+	{
+		"Date": "4/30/13",
+		"Time": "8:12 AM",
+		"Departure": "Kearney St NE 1366, 20017 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.98647",
+		"Lat": "38.931"
+	},
+	{
+		"Date": "4/29/13",
+		"Time": "5:47 PM",
+		"Departure": "Lawrence St NE 767, 20017 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.99509",
+		"Lat": "38.93137"
+	},
+	{
+		"Date": "4/19/13",
+		"Time": "3:56 PM",
+		"Departure": "9th St NE, 20017 Washington",
+		"Cost": "$2.51",
+		"Lon": "-76.99377",
+		"Lat": "38.93375"
+	},
+	{
+		"Date": "4/19/13",
+		"Time": "8:04 AM",
+		"Departure": "15th St NE 3164, 20017 Washington",
+		"Cost": "$2.51",
+		"Lon": "-76.98421",
+		"Lat": "38.92982"
+	},
+	{
+		"Date": "4/18/13",
+		"Time": "10:57 AM",
+		"Departure": "15th St NE 3164, 20017 Washington",
+		"Cost": "$10.87",
+		"Lon": "-76.98421",
+		"Lat": "38.92982"
+	},
+	{
+		"Date": "4/17/13",
+		"Time": "1:53 PM",
+		"Departure": "Newton St NE 1120, 20017 Washington",
+		"Cost": "$4.18",
+		"Lon": "-76.99124",
+		"Lat": "38.93353"
+	},
+	{
+		"Date": "4/17/13",
+		"Time": "8:06 AM",
+		"Departure": "15th St NE 3160, 20017 Washington",
+		"Cost": "$2.51",
+		"Lon": "-76.98421",
+		"Lat": "38.92981"
+	},
+	{
+		"Date": "4/16/13",
+		"Time": "5:56 PM",
+		"Departure": "Bunker Hill Rd NE 1036, 20017 Washington",
+		"Cost": "$2.51",
+		"Lon": "-76.99268",
+		"Lat": "38.93523"
+	},
+	{
+		"Date": "4/16/13",
+		"Time": "7:58 AM",
+		"Departure": "15th St NE 3164, 20017 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.98421",
+		"Lat": "38.92982"
+	},
+	{
+		"Date": "4/15/13",
+		"Time": "5:55 PM",
+		"Departure": "Perry St NE 1144, 20017 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.99103",
+		"Lat": "38.9362"
+	},
+	{
+		"Date": "4/15/13",
+		"Time": "8:50 AM",
+		"Departure": "Lawrence St NE 1370, 20017 Washington",
+		"Cost": "$1.67",
+		"Lon": "-76.98671",
+		"Lat": "38.93178"
+	},
+	{
+		"Date": "4/12/13",
+		"Time": "8:12 AM",
+		"Departure": "15th St NE 3164, 20017 Washington",
+		"Cost": "$1.67",
+		"Lon": "-76.98421",
+		"Lat": "38.92982"
+	},
+	{
+		"Date": "4/11/13",
+		"Time": "6:10 PM",
+		"Departure": "Oakview Ter NE 3732, 20017 Washington",
+		"Cost": "$2.51",
+		"Lon": "-76.99001",
+		"Lat": "38.93551"
+	},
+	{
+		"Date": "4/11/13",
+		"Time": "8:11 AM",
+		"Departure": "14th St NE 3139, 20017 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.9861",
+		"Lat": "38.9297"
+	},
+	{
+		"Date": "3/28/13",
+		"Time": "5:49 PM",
+		"Departure": "12th St NE 3364, 20017 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.9909",
+		"Lat": "38.9312"
+	},
+	{
+		"Date": "3/26/13",
+		"Time": "8:39 AM",
+		"Departure": "14th St NE 3138, 20017 Washington",
+		"Cost": "$1.67",
+		"Lon": "-76.9861",
+		"Lat": "38.92921"
+	},
+	{
+		"Date": "3/19/13",
+		"Time": "6:22 PM",
+		"Departure": "15th St NE 3160, 20017 Washington",
+		"Cost": "$5.85",
+		"Lon": "-76.98421",
+		"Lat": "38.92981"
+	},
+	{
+		"Date": "3/19/13",
+		"Time": "5:54 PM",
+		"Departure": "Otis St NE 1076, 20017 Washington",
+		"Cost": "$4.18",
+		"Lon": "-76.99136",
+		"Lat": "38.93452"
+	},
+	{
+		"Date": "3/19/13",
+		"Time": "8:06 AM",
+		"Departure": "15th St NE 3160, 20017 Washington",
+		"Cost": "$1.67",
+		"Lon": "-76.98421",
+		"Lat": "38.92981"
+	},
+	{
+		"Date": "3/18/13",
+		"Time": "6:13 PM",
+		"Departure": "10th St NE 3320, 20017 Washington",
+		"Cost": "$1.67",
+		"Lon": "-76.99253",
+		"Lat": "38.93107"
+	},
+	{
+		"Date": "3/15/13",
+		"Time": "5:58 PM",
+		"Departure": "9th St NE 3416, 20017 Washington",
+		"Cost": "$1.67",
+		"Lon": "-76.99387",
+		"Lat": "38.93194"
+	},
+	{
+		"Date": "3/14/13",
+		"Time": "5:31 PM",
+		"Departure": "K St NW 766, 20001 Washington",
+		"Cost": "$10.03",
+		"Lon": "-77.02255",
+		"Lat": "38.90208"
+	},
+	{
+		"Date": "3/13/13",
+		"Time": "5:44 PM",
+		"Departure": "9th St NE, 20017 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.99377",
+		"Lat": "38.93375"
+	},
+	{
+		"Date": "3/13/13",
+		"Time": "8:46 AM",
+		"Departure": "Jackson St NE 1440, 20017 Washington",
+		"Cost": "$2.51",
+		"Lon": "-76.98522",
+		"Lat": "38.92987"
+	},
+	{
+		"Date": "3/11/13",
+		"Time": "6:07 PM",
+		"Departure": "Leona St 1966, 78722 Austin",
+		"Cost": "$0.87",
+		"Lon": "-97.7234",
+		"Lat": "30.2804"
+	},
+	{
+		"Date": "3/11/13",
+		"Time": "11:29 AM",
+		"Departure": "Leona St 2200, 78722 Austin",
+		"Cost": "$16.09",
+		"Lon": "-97.72417",
+		"Lat": "30.28267"
+	},
+	{
+		"Date": "3/9/13",
+		"Time": "6:26 PM",
+		"Departure": "Leona St 2116, 78722 Austin",
+		"Cost": "$5.68",
+		"Lon": "-97.72384",
+		"Lat": "30.28242"
+	},
+	{
+		"Date": "3/9/13",
+		"Time": "4:31 PM",
+		"Departure": "E 4th St 445, 78701 Austin",
+		"Cost": "$6.99",
+		"Lon": "-97.73948",
+		"Lat": "30.26511"
+	},
+	{
+		"Date": "3/9/13",
+		"Time": "2:15 PM",
+		"Departure": "Leona St 2006, 78722 Austin",
+		"Cost": "$15.73",
+		"Lon": "-97.72362",
+		"Lat": "30.281"
+	},
+	{
+		"Date": "3/7/13",
+		"Time": "6:04 PM",
+		"Departure": "9th St NE 3478, 20017 Washington",
+		"Cost": "$1.67",
+		"Lon": "-76.9937",
+		"Lat": "38.93234"
+	},
+	{
+		"Date": "3/7/13",
+		"Time": "8:43 AM",
+		"Departure": "14th St NE 3134, 20017 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.9861",
+		"Lat": "38.92917"
+	},
+	{
+		"Date": "3/5/13",
+		"Time": "6:05 PM",
+		"Departure": "9th St NE 3473, 20017 Washington",
+		"Cost": "$1.67",
+		"Lon": "-76.99365",
+		"Lat": "38.93214"
+	},
+	{
+		"Date": "3/5/13",
+		"Time": "8:09 AM",
+		"Departure": "15th St NE 3164, 20017 Washington",
+		"Cost": "$1.67",
+		"Lon": "-76.98421",
+		"Lat": "38.92982"
+	},
+	{
+		"Date": "3/4/13",
+		"Time": "5:45 PM",
+		"Departure": "John F McCormack Rd NE 3524, 20017 Washington",
+		"Cost": "$3.34",
+		"Lon": "-76.99794",
+		"Lat": "38.94076"
+	},
+	{
+		"Date": "2/27/13",
+		"Time": "12:55 PM",
+		"Departure": "Jackson St NE 1452, 20017 Washington",
+		"Cost": "$6.27",
+		"Lon": "-76.98512",
+		"Lat": "38.92987"
+	},
+	{
+		"Date": "2/26/13",
+		"Time": "5:18 PM",
+		"Departure": "12th St NE 3121, 20017 Washington",
+		"Cost": "$1.25",
+		"Lon": "-76.99048",
+		"Lat": "38.92929"
+	},
+	{
+		"Date": "2/25/13",
+		"Time": "8:06 AM",
+		"Departure": "Kearney St NE 1420, 20017 Washington",
+		"Cost": "$1.67",
+		"Lon": "-76.98531",
+		"Lat": "38.93086"
+	},
+	{
+		"Date": "2/22/13",
+		"Time": "8:32 AM",
+		"Departure": "Kearney St NE 1250, 20017 Washington",
+		"Cost": "$1.67",
+		"Lon": "-76.98926",
+		"Lat": "38.93093"
+	},
+	{
+		"Date": "2/21/13",
+		"Time": "5:51 PM",
+		"Departure": "Otis St NE 1065, 20017 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.99141",
+		"Lat": "38.93449"
+	},
+	{
+		"Date": "2/20/13",
+		"Time": "6:04 PM",
+		"Departure": "10th St NE 3468, 20017 Washington",
+		"Cost": "$1.67",
+		"Lon": "-76.99263",
+		"Lat": "38.93234"
+	},
+	{
+		"Date": "2/20/13",
+		"Time": "7:54 AM",
+		"Departure": "Jackson St NE 1420, 20017 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.98534",
+		"Lat": "38.92986"
+	},
+	{
+		"Date": "2/19/13",
+		"Time": "5:58 PM",
+		"Departure": "10th St NE 3560, 20017 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.99269",
+		"Lat": "38.93306"
+	},
+	{
+		"Date": "2/19/13",
+		"Time": "8:13 AM",
+		"Departure": "14th St NE 3159, 20017 Washington",
+		"Cost": "$1.67",
+		"Lon": "-76.9861",
+		"Lat": "38.92974"
+	},
+	{
+		"Date": "2/15/13",
+		"Time": "5:59 PM",
+		"Departure": "9th St NE 3468, 20017 Washington",
+		"Cost": "$5.43",
+		"Lon": "-76.9937",
+		"Lat": "38.93232"
+	},
+	{
+		"Date": "2/15/13",
+		"Time": "8:13 AM",
+		"Departure": "15th St NE 3158, 20017 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.98421",
+		"Lat": "38.92981"
+	},
+	{
+		"Date": "2/14/13",
+		"Time": "6:03 PM",
+		"Departure": "9th St NE 3469, 20017 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.99365",
+		"Lat": "38.9321"
+	},
+	{
+		"Date": "2/14/13",
+		"Time": "7:59 AM",
+		"Departure": "15th St NE 3164, 20017 Washington",
+		"Cost": "$2.93",
+		"Lon": "-76.98421",
+		"Lat": "38.92982"
+	},
+	{
+		"Date": "2/13/13",
+		"Time": "8:17 PM",
+		"Departure": "Rhode Island Ave NE 827, 20018 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.99444",
+		"Lat": "38.92174"
+	},
+	{
+		"Date": "2/13/13",
+		"Time": "8:29 AM",
+		"Departure": "15th St NE 3158, 20017 Washington",
+		"Cost": "$1.67",
+		"Lon": "-76.98421",
+		"Lat": "38.92981"
+	},
+	{
+		"Date": "2/12/13",
+		"Time": "8:04 PM",
+		"Departure": "15th St NE 3158, 20017 Washington",
+		"Cost": "$4.60",
+		"Lon": "-76.98421",
+		"Lat": "38.92981"
+	},
+	{
+		"Date": "2/12/13",
+		"Time": "7:52 PM",
+		"Departure": "Irving St NE 1536, 20017 Washington",
+		"Cost": "$1.25",
+		"Lon": "-76.98258",
+		"Lat": "38.92901"
+	},
+	{
+		"Date": "2/10/13",
+		"Time": "12:15 PM",
+		"Departure": "Hamlin St NE 1352, 20017 Washington",
+		"Cost": "$10.87",
+		"Lon": "-76.98621",
+		"Lat": "38.92784"
+	},
+	{
+		"Date": "2/8/13",
+		"Time": "6:04 PM",
+		"Departure": "10th St NE 3524, 20017 Washington",
+		"Cost": "$4.18",
+		"Lon": "-76.99266",
+		"Lat": "38.9327"
+	},
+	{
+		"Date": "2/8/13",
+		"Time": "8:23 AM",
+		"Departure": "15th St NE 3164, 20017 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.98421",
+		"Lat": "38.92982"
+	},
+	{
+		"Date": "2/7/13",
+		"Time": "5:59 PM",
+		"Departure": "10th St NE 3662, 20017 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.99285",
+		"Lat": "38.9347"
+	},
+	{
+		"Date": "2/6/13",
+		"Time": "5:46 PM",
+		"Departure": "7th St NE 3279, 20017 Washington",
+		"Cost": "$5.02",
+		"Lon": "-76.99616",
+		"Lat": "38.93034"
+	},
+	{
+		"Date": "2/6/13",
+		"Time": "8:04 AM",
+		"Departure": "15th St NE 3160, 20017 Washington",
+		"Cost": "$2.51",
+		"Lon": "-76.98421",
+		"Lat": "38.92981"
+	},
+	{
+		"Date": "2/5/13",
+		"Time": "6:01 PM",
+		"Departure": "Monroe St NE 1042, 20017 Washington",
+		"Cost": "$1.67",
+		"Lon": "-76.99143",
+		"Lat": "38.93253"
+	},
+	{
+		"Date": "2/5/13",
+		"Time": "8:09 AM",
+		"Departure": "15th St NE 3164, 20017 Washington",
+		"Cost": "$2.93",
+		"Lon": "-76.98421",
+		"Lat": "38.92982"
+	},
+	{
+		"Date": "2/4/13",
+		"Time": "6:14 PM",
+		"Departure": "9th St NE 3464, 20017 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.9937",
+		"Lat": "38.93231"
+	},
+	{
+		"Date": "2/4/13",
+		"Time": "8:05 AM",
+		"Departure": "15th St NE 2938, 20017 Washington",
+		"Cost": "$2.09",
+		"Lon": "-76.98404",
+		"Lat": "38.9277"
+	},
+	{
+		"Date": "2/1/13",
+		"Time": "6:02 PM",
+		"Departure": "Monroe St NE 929, 20017 Washington",
+		"Cost": "$2.93",
+		"Lon": "-76.99334",
+		"Lat": "38.93241"
+	},
+	{
+		"Date": "2/1/13",
+		"Time": "9:02 AM",
+		"Departure": "15th St NE 3168, 20017 Washington",
+		"Cost": "$2.51",
+		"Lon": "-76.98421",
+		"Lat": "38.92983"
+	},
+	{
+		"Date": "1/31/13",
+		"Time": "6:09 PM",
+		"Departure": "Monroe St NE 933, 20017 Washington",
+		"Cost": "$2.51",
+		"Lon": "-76.9933",
+		"Lat": "38.93241"
+	}
+]
